@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\bin\Debug\net8.0\MetodosDotnet.exe
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\bin\Debug\net8.0\MetodosDotnet.deps.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\bin\Debug\net8.0\MetodosDotnet.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\bin\Debug\net8.0\MetodosDotnet.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\bin\Debug\net8.0\MetodosDotnet.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\refint\MetodosDotnet.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\MetodosDotnet.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\MetodosDotnet\obj\Debug\net8.0\ref\MetodosDotnet.dll

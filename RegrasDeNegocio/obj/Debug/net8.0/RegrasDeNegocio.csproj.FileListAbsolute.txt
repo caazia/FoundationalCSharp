@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\bin\Debug\net8.0\RegrasDeNegocio.exe
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\bin\Debug\net8.0\RegrasDeNegocio.deps.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\bin\Debug\net8.0\RegrasDeNegocio.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\bin\Debug\net8.0\RegrasDeNegocio.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\bin\Debug\net8.0\RegrasDeNegocio.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\refint\RegrasDeNegocio.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\RegrasDeNegocio.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\RegrasDeNegocio\obj\Debug\net8.0\ref\RegrasDeNegocio.dll

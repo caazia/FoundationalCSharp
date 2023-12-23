@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\bin\Debug\net8.0\LogicaComIf.exe
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\bin\Debug\net8.0\LogicaComIf.deps.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\bin\Debug\net8.0\LogicaComIf.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\bin\Debug\net8.0\LogicaComIf.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\bin\Debug\net8.0\LogicaComIf.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\refint\LogicaComIf.dll
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.pdb
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\LogicaComIf.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Microsoft\csharp\LogicaComIf\obj\Debug\net8.0\ref\LogicaComIf.dll
